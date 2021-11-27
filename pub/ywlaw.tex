@@ -1,0 +1,122 @@
+\documentclass[10pt,a4paper,twocolumn,twoside]{article}
+% \usepackage{natbib}
+\usepackage{bibtopic}
+\usepackage{bbding}
+\usepackage{ifthen}
+\usepackage{revnum}
+\usepackage[hyperindex=true,colorlinks=true,pdfstartview=FitH]{hyperref}
+
+\newboolean{CHINESE}\setboolean{CHINESE}{false}
+
+\ifthenelse{\boolean{CHINESE}}{
+	\usepackage{fontspec}
+	\newfontfamily\rmfont{Kai}	% this is native Mac OS X font, you don't need to install any third party font
+	\newcommand{\cjk}[1]{{\rmfont #1}}
+}{
+}
+
+\addtolength{\textheight}{\topmargin}
+\addtolength{\textheight}{\headheight}
+\addtolength{\textheight}{\headsep}
+\addtolength{\textheight}{108pt}
+\addtolength{\topmargin}{-56pt}
+\addtolength{\headheight}{-12pt}
+\addtolength{\headsep}{-20pt}
+
+\addtolength{\oddsidemargin}{-31pt}
+\addtolength{\evensidemargin}{-62pt}
+\addtolength{\textwidth}{93pt}
+
+% \makeatletter
+% \renewcommand{\section}{\@startsection{section}{1}{\z@}%
+% {-\baselineskip}{0.2\baselineskip}{\normalfont\normalsize\bfseries}}
+% \renewcommand{\subsection}{\@startsection{subsection}{2}{\z@}%
+% {-\baselineskip}{0.2\baselineskip}{\normalfont\normalsize\bfseries}}
+% \renewcommand{\subsubsection}{\@startsection{subsubsection}{3}{\z@}%
+% {-\baselineskip}{0.2\baselineskip}{\normalfont\normalsize\bfseries}}
+% \renewcommand{\paragraph}{\@startsection{paragraph}{4}{\z@}%
+% {0.2\baselineskip}{-1em}{\normalfont\normalsize\bfseries}}
+% \makeatother
+
+\pagestyle{empty}
+
+\begin{document}
+
+\bibliographystyle{unsrturl}
+% \bibliographystyle{unsrtnat}
+
+% \ifthenelse{\boolean{CHINESE}}{
+% 	\section*{\cjk{评审中}}
+% }{
+% 	\section*{Under review}
+% }
+% \begin{btSect}{ywlaw-su}
+% \btPrintAll
+% \end{btSect}
+
+\ifthenelse{\boolean{CHINESE}}{
+	\section*{\cjk{出版物}}
+}{
+	\section*{Publications}
+}
+
+\ifthenelse{\boolean{CHINESE}}{
+	\subsection*{\cjk{书本章节}}
+}{
+	\subsection*{Book chapters}
+}
+\begin{btSect}{ywlaw-ch}
+\btPrintAll
+\end{btSect}
+
+\ifthenelse{\boolean{CHINESE}}{
+	\subsection*{\cjk{期刊文章}}
+}{
+	\subsection*{Journals}
+}
+\begin{btSect}{ywlaw-jo}
+\btPrintAll
+\end{btSect}
+
+\ifthenelse{\boolean{CHINESE}}{
+	\subsection*{\cjk{会议文章}}
+}{
+	\subsection*{Conferences}
+}
+\begin{btSect}{ywlaw-co}
+\btPrintAll
+\end{btSect}
+
+\ifthenelse{\boolean{CHINESE}}{
+	\subsection*{\cjk{会议录}}
+}{
+	\subsection*{Edited volumes}
+}
+\begin{btSect}{ywlaw-vo}
+\btPrintAll
+\end{btSect}
+
+% \subsection*{Posters}
+% \begin{btSect}{ywlaw-po}
+% \btPrintAll
+% \end{btSect}
+
+% \ifthenelse{\boolean{CHINESE}}{
+% 	\subsection*{\cjk{技术报告}}
+% }{
+% 	\subsection*{Technical reports}
+% }
+% \begin{btSect}{ywlaw-tr}
+% \btPrintAll
+% \end{btSect}
+
+\ifthenelse{\boolean{CHINESE}}{
+	\subsection*{\cjk{论文}}
+}{
+	\subsection*{Theses}
+}
+\begin{btSect}{ywlaw-th}
+\btPrintAll
+\end{btSect}
+
+\end{document}
