@@ -12,4 +12,4 @@ My research interests covered a broad spectrum, but I am currently focusing on s
 
 # Publications #
 
-My up-to-date [list of publications](https://github.com/ywlaw/ywlaw.github.io/blob/main/pub/ywlaw.pdf).
+My up-to-date [list of publications](https://ywlaw.github.io/pub/ywlaw.pdf).
