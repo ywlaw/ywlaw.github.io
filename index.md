@@ -1,4 +1,4 @@
-# Bio #
+# Bio
 
 I am Yee Wei Law (罗裔纬) or “Law” for short. I received my BEng, MEng and PhD degrees from University of Southampton, Nanyang Technological University, and University of Twente respectively. Before joining UniSA, I was a Research Fellow at the Department of Electrical and Electronic Engineering, The University of Melbourne. I also contributed to teaching at Deakin University. 
 
@@ -10,6 +10,6 @@ My research interests covered a broad spectrum, but I am currently focusing on s
 
 On 5 December 2021, I founded [Mesh in Space](https://meshin.space). On 9 February 2022, Mesh in Space was admitted into the [Venture Catalyst Space](https://icc.unisa.edu.au/programs/venture-catalyst-space) program.
 
-# Publications #
+# Publications
 
 My up-to-date [list of publications](https://ywlaw.github.io/pub/ywlaw.pdf).
