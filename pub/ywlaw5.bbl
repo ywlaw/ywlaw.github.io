@@ -1,0 +1,16 @@
+\begin{thebibliography}{1}
+
+\bibitem{law2005key}
+Yee~Wei Law.
+\newblock {\em Key management and link-layer security of wireless sensor
+  networks: energy-efficient attack and defense}.
+\newblock PhD thesis, University of Twente, 2005.
+\newblock \href {https://doi.org/10.3990/1.9789036522823}
+  {\path{doi:10.3990/1.9789036522823}}.
+
+\bibitem{law2003simulation}
+Yee~Wei Law.
+\newblock Simulation and visualization in a {3D} collaborative environment.
+\newblock Master's thesis, Nanyang Technological University, 2003.
+
+\end{thebibliography}

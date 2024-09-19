@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: ywlaw3.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: unsrturl.bst
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: ywlaw-co.bib
+Warning--can't use both volume and number fields in uhongora2023deep
+Warning--can't use both volume and number fields in edwards2023evaluation
+Warning--can't use both volume and number fields in law2023detecting
+Warning--can't use both volume and number fields in law2022siem4gs
+You've used 54 entries,
+            2616 wiz_defined-function locations,
+            984 strings with 25676 characters,
+and the built_in function-call counts, 31349 in all, are:
+= -- 3188
+> -- 1431
+< -- 54
++ -- 472
+- -- 416
+* -- 2040
+:= -- 4059
+add.period$ -- 257
+call.type$ -- 54
+change.case$ -- 54
+chr.to.int$ -- 0
+cite$ -- 58
+duplicate$ -- 1080
+empty$ -- 3027
+format.name$ -- 416
+if$ -- 8476
+int.to.chr$ -- 0
+int.to.str$ -- 54
+missing$ -- 54
+newline$ -- 333
+num.names$ -- 74
+pop$ -- 555
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 2070
+stack$ -- 0
+substring$ -- 1371
+swap$ -- 581
+text.length$ -- 146
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 4
+while$ -- 183
+width$ -- 56
+write$ -- 785
+(There were 4 warnings)

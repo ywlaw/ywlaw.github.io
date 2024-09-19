@@ -1,0 +1,30 @@
+\begin{thebibliography}{1}
+
+\bibitem{law2009key}
+Yee~Wei Law and Marimuthu Palaniswami.
+\newblock Key management in wireless sensor networks.
+\newblock In Sudip Misra, Issac Woungang, and Subhas~Chandra Misra, editors,
+  {\em Guide to Wireless Sensor Networks}, Computer Communications and
+  Networks, chapter~20, pages 513--532. Springer, 2009.
+\newblock \href {https://doi.org/10.1007/978-1-84882-218-4}
+  {\path{doi:10.1007/978-1-84882-218-4}}.
+
+\bibitem{law2009secure}
+Yee~Wei Law, Marimuthu Palaniswami, and Raphael Chung-Wei Phan.
+\newblock Secure data aggregation in wireless sensor networks.
+\newblock In Sudip Misra, Issac Woungang, and Subhas~Chandra Misra, editors,
+  {\em Guide to Wireless Sensor Networks}, Computer Communications and
+  Networks, chapter~21, pages 533--560. Springer, 2009.
+\newblock \href {https://doi.org/10.1007/978-1-84882-218-4}
+  {\path{doi:10.1007/978-1-84882-218-4}}.
+
+\bibitem{law2009securek}
+Yee~Wei Law, Li-Hsing Yen, Roberto {Di Pietro}, and Marimuthu Palaniswami.
+\newblock {Secure $k$-Connectivity Properties of Wireless Sensor Networks}.
+\newblock In Zhen Jiang and Yi~Pan, editors, {\em From Problem to Solution:
+  Wireless Sensor Networks Security}, chapter~13, pages 257--270. NOVA Science
+  Publishers, 2009.
+\newblock URL:
+  \url{http://www.novapublishers.org/catalog/product_info.php?products_id=6983}.
+
+\end{thebibliography}

@@ -1,0 +1,863 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4 Portable) (preloaded format=pdflatex 2024.6.26)  19 SEP 2024 10:50
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./ywlaw.tex
+(ywlaw.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-04-11>
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count189
+\c@section=\count190
+\c@subsection=\count191
+\c@subsubsection=\count192
+\c@paragraph=\count193
+\c@subparagraph=\count194
+\c@figure=\count195
+\c@table=\count196
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/latex/bibtopic\bibtopic.sty
+Package: bibtopic 2006/09/08 v1.1a Sectioned Bibliographies
+
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\c@btauxfile=\count197
+\bt@infilea=\read2
+\bt@infileb=\read3
+\bt@outfile=\write3
+\bt@tempboxa=\box51
+)
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/latex/bbding\bbding.sty
+Package: bbding 1999/04/15 v1.01 Dingbats symbols
+)
+(revnum.sty
+Package: revnum 1997/05/10 v1.0 reverse enumerate, jw
+\c@rev@cnti=\count198
+\c@rev@cntii=\count199
+\c@rev@cntiii=\count266
+\c@rev@cntiv=\count267
+)
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
+
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/generic/kvdefinekeys\kvdefinekeys
+.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (C:\Users\lawyw\app\miktex\texmfs\install\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/generic/gettitlestring\gettitlest
+ring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:/Users/lawyw/Dropbox/scripts/texmf\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+))
+\c@section@level=\count268
+)
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count269
+)
+\@linkdim=\dimen141
+\Hy@linkcounter=\count270
+\Hy@pagecounter=\count271
+
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count272
+
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/latex/hyperref\puenc.def
+File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `hyperindex' set `true' on input line 4062.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4062.
+Package hyperref Info: Hyper figures OFF on input line 4179.
+Package hyperref Info: Link nesting OFF on input line 4184.
+Package hyperref Info: Hyper index ON on input line 4187.
+Package hyperref Info: Plain pages OFF on input line 4194.
+Package hyperref Info: Backreferencing OFF on input line 4199.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4446.
+\c@Hy@tempcnt=\count273
+
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4784.
+\XeTeXLinkMargin=\dimen142
+
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count274
+\Field@Width=\dimen143
+\Fld@charsize=\dimen144
+Package hyperref Info: Hyper figures OFF on input line 6063.
+Package hyperref Info: Link nesting OFF on input line 6068.
+Package hyperref Info: Hyper index ON on input line 6071.
+Package hyperref Info: backreferencing OFF on input line 6078.
+Package hyperref Info: Link coloring ON on input line 6081.
+Package hyperref Info: Link coloring with OCG OFF on input line 6088.
+Package hyperref Info: PDF/A mode OFF on input line 6093.
+ (C:\Users\lawyw\app\miktex\texmfs\install\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count275
+\c@Item=\count276
+\c@Hfootnote=\count277
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2024-01-20 v7.01h Hyperref driver for pdfTeX
+
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count278
+\c@bookmark@seq@number=\count279
+
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/latex/rerunfilecheck\rerunfileche
+ck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/generic/uniquecounter\uniquecount
+er.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip50
+)
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/latex/l3backend\l3backend-pdftex.
+def
+File: l3backend-pdftex.def 2024-04-11 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count280
+\l__pdf_internal_box=\box52
+) (ywlaw.aux
+
+LaTeX Warning: Label `perera2018human' multiply defined.
+
+)
+\openout1 = `ywlaw.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+ (C:\Users\lawyw\app\miktex\texmfs\install\tex/latex/graphics\color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+
+(C:\Users\lawyw\app\miktex\texmfs\install\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count281
+\scratchdimen=\dimen145
+\scratchbox=\box53
+\nofMPsegments=\count282
+\nofMParguments=\count283
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count284
+\MPscratchDim=\dimen146
+\MPnumerator=\count285
+\makeMPintoPDFobject=\count286
+\everyMPtoPDFconversion=\toks19
+)) (C:\Users\lawyw\app\miktex\texmfs\install\tex/latex/graphics\mathcolor.ltx))
+Package hyperref Info: Link coloring ON on input line 43.
+(ywlaw.out) (ywlaw.out)
+\@outlinefile=\write4
+\openout4 = `ywlaw.out'.
+
+\openout3 = `btaux.aux'.
+
+\openout3 = `ywlaw1.aux'.
+
+ (ywlaw1.bbl
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 10.
+
+Underfull \hbox (badness 2884) in paragraph at lines 22--29
+[]\OT1/cmr/m/n/10 Yee Wei Law, Li-Hsing Yen, Roberto Di Pietro,
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 22--29
+\OT1/cmr/m/n/10 Prop-er-ties of Wire-less Sen-sor Net-works.  In Zhen
+ []
+
+
+Underfull \hbox (badness 1859) in paragraph at lines 22--29
+\OT1/cmr/m/n/10 Jiang and Yi Pan, ed-i-tors, \OT1/cmr/m/it/10 From Prob-lem to 
+So-
+ []
+
+
+Underfull \hbox (badness 3758) in paragraph at lines 22--29
+\OT1/cmr/m/it/10 lu-tion: Wire-less Sen-sor Net-works Se-cu-rity\OT1/cmr/m/n/10
+ , chap-
+ []
+
+
+Underfull \hbox (badness 7186) in paragraph at lines 22--29
+\OT1/cmr/m/n/10 ter 13, pages 257--270. NOVA Sci-ence Pub-lish-
+ []
+
+)
+\openout3 = `btaux.aux'.
+
+\openout3 = `ywlaw2.aux'.
+
+ (ywlaw2.bbl
+Underfull \hbox (badness 3792) in paragraph at lines 11--18
+[]\OT1/cmr/m/n/10 Wing Shan Tam, Yee Wei Law, and Chi Wah
+ []
+
+
+Underfull \hbox (badness 4647) in paragraph at lines 11--18
+\OT1/cmr/m/n/10 Kok.  A capacitor-free fast-response low-dropout
+ []
+
+
+Underfull \hbox (badness 2173) in paragraph at lines 11--18
+\OT1/cmr/m/n/10 volt-age reg-u-la-tor.  \OT1/cmr/m/it/10 Solid State Elec-tron-
+ics Let-ters\OT1/cmr/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 11--18
+\OT1/cmtt/m/n/10 com / science / article / pii / S2589208822000084$[][]\OT1/cmr
+/m/n/10 , [][]$\OT1/cmtt/m/n/10 doi :
+ []
+
+
+Underfull \hbox (badness 3396) in paragraph at lines 36--44
+[]\OT1/cmr/m/n/10 Fahimeh Nasimi, Mo-ham-mad Reza Khayyam-bashi,
+ []
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 36--44
+\OT1/cmr/m/n/10 Naser Movah-he-dinia, and Yee Wei Law.  Ex-ploit-
+ []
+
+
+Underfull \hbox (badness 3019) in paragraph at lines 36--44
+\OT1/cmr/m/n/10 ing sim-i-lar prior knowl-edge for com-press-ing ECG
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 36--44
+\OT1/cmr/m/n/10 sig-nals.  \OT1/cmr/m/it/10 Biomed-i-cal Sig-nal Pro-cess-ing a
+nd Con-trol\OT1/cmr/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 36--44
+\OT1/cmtt/m/n/10 com / science / article / pii / S1746809420301166$[][]\OT1/cmr
+/m/n/10 , [][]$\OT1/cmtt/m/n/10 doi :
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 46--53
+\OT1/cmtt/m/n/10 / / ieeexplore . ieee . org / document / 9005197$[][]\OT1/cmr/
+m/n/10 , [][]$\OT1/cmtt/m/n/10 doi : 10 .
+ []
+
+
+Underfull \hbox (badness 4378) in paragraph at lines 55--61
+\OT1/cmr/m/n/10 Drone-Action: An out-door recorded drone video
+ []
+
+
+Underfull \hbox (badness 3895) in paragraph at lines 55--61
+\OT1/cmr/m/n/10 dataset for ac-tion recog-ni-tion.  \OT1/cmr/m/it/10 Drones\OT1
+/cmr/m/n/10 , 3(4):82,
+ []
+
+
+Underfull \hbox (badness 4416) in paragraph at lines 88--96
+\OT1/cmr/m/n/10 Law, Zhe Yang, Xing-she Zhou, and Marimuthu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--104
+[]\OT1/cmr/m/n/10 Yee Wei Law, Tansu Alp-can, and Marimuthu
+ []
+
+
+Underfull \hbox (badness 5036) in paragraph at lines 98--104
+\OT1/cmr/m/it/10 on Power Sys-tems\OT1/cmr/m/n/10 , 30(1):223--232, Jan-uary 20
+15.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--138
+[]\OT1/cmr/m/n/10 Li-Hsing Yen, Yee Wei Law, and Marimuthu
+ []
+
+[1
+
+{C:/Users/lawyw/app/miktex/texmfs/data/fonts/map/pdftex/pdftex.map}]
+Underfull \hbox (badness 2809) in paragraph at lines 157--166
+[]\OT1/cmr/m/n/10 Yee Wei Law, Yu Zhang, Jiong Jin, Marimuthu
+ []
+
+
+Underfull \hbox (badness 1331) in paragraph at lines 199--206
+[]\OT1/cmr/m/n/10 Yee Wei Law, Jeroen Doumen, and Pieter Har-tel.
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 199--206
+\OT1/cmtt/m/n/10 dl . acm . org / doi / 10 . 1145 / 1138127 . 1138130$[][]\OT1/
+cmr/m/n/10 , [][]$\OT1/cmtt/m/n/10 doi : 10 .
+ []
+
+)
+\openout3 = `btaux.aux'.
+
+\openout3 = `ywlaw3.aux'.
+
+ (ywlaw3.bbl
+Underfull \hbox (badness 1360) in paragraph at lines 56--66
+\OT1/cmr/m/it/10 War-fare and Se-cu-rity (EC-CWS)\OT1/cmr/m/n/10 , vol-ume 21, 
+pages
+ []
+
+
+Underfull \hbox (badness 6016) in paragraph at lines 56--66
+\OT1/cmr/m/n/10 150--159. Aca-demic Con-fer-ences In-ter-na-tional Ltd,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--66
+\OT1/cmtt/m/n/10 org / index . php / eccws / article / view / 228$[][]\OT1/cmr/
+m/n/10 , [][]$\OT1/cmtt/m/n/10 doi :
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 103--110
+[]\OT1/cmr/m/n/10 John McGuire, Kut-luy^^Pl Do^^Ugan^^Xcay, Yee Wei Law,
+ []
+
+
+Underfull \hbox (badness 6978) in paragraph at lines 103--110
+\OT1/cmr/m/n/10 and Javaan Chahl.  Ve-hi-cle path op-ti-miza-tion
+ []
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 103--110
+\OT1/cmr/m/n/10 for angle-of-arrival lo-cal-iza-tion.  In \OT1/cmr/m/it/10 27th
+ Eu-ro-pean
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--110
+\OT1/cmr/m/it/10 Sig-nal Pro-cess-ing Con-fer-ence (EU-SIPCO 2019)
+ []
+
+
+Underfull \hbox (badness 6268) in paragraph at lines 103--110
+\OT1/cmr/m/it/10 Satel-lite Work-shop: Sig-nal Pro-cess-ing, Com-puter
+ []
+
+
+Underfull \hbox (badness 6396) in paragraph at lines 103--110
+\OT1/cmr/m/it/10 Vi-sion and Deep Learn-ing for Au-tonomous Sys-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--110
+\OT1/cmr/m/it/10 tems\OT1/cmr/m/n/10 , 2019.  URL: [][]$\OT1/cmtt/m/n/10 https 
+: / / www . eurasip . org /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--110
+\OT1/cmtt/m/n/10 Proceedings / Eusipco / eusipco2019 / wp-[]content /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--110
+\OT1/cmtt/m/n/10 uploads / 2019 / 08 / Vehicle _ Path _ Optimization _ for _
+ []
+
+[2]
+Underfull \hbox (badness 1199) in paragraph at lines 121--126
+\OT1/cmr/m/n/10 videos.  In \OT1/cmr/m/it/10 18th Aus-tralian In-ter-na-tional 
+Aerospace
+ []
+
+
+Underfull \hbox (badness 1424) in paragraph at lines 128--168
+\OT1/cmr/m/n/10 Luo, Chong Sun, Cong Hao, Dai-jin Kim, Deepak
+ []
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 128--168
+\OT1/cmr/m/n/10 Ef-s-tra-tios Gavves, Er-han Gun-dogdu, Erik Velasco-
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 128--168
+\OT1/cmr/m/n/10 Jiny-oung Sung, Joakim Johnan-der, Joao Hen-riques,
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 128--168
+\OT1/cmr/m/it/10 Part I\OT1/cmr/m/n/10 , pages 3--53, Cham, 2019. Springer In-t
+er-na-
+ []
+
+
+Underfull \hbox (badness 1953) in paragraph at lines 128--168
+\OT1/cmr/m/n/10 tional Pub-lish-ing.  URL: [][]$\OT1/cmtt/m/n/10 https : / / li
+nk . springer .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--168
+\OT1/cmtt/m/n/10 com / chapter / 10 . 1007 / 978-[]3-[]030-[]11009-[]3 _ 1$[][]
+\OT1/cmr/m/n/10 ,
+ []
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{cite.perera20
+18human}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.178 \bibitem{perera2018human}
+                               
+Underfull \hbox (badness 4266) in paragraph at lines 179--188
+\OT1/cmr/m/it/10 CON-FER-ENCE 2018: Sus-tain-abil-ity in Aerospace
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--188
+\OT1/cmtt/m/n/10 / / iopscience . iop . org / issue / 1757-[]899X / 405 / 1$[][
+]\OT1/cmr/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 190--199
+\OT1/cmr/m/n/10 Palaniswami.  Privacy-preserving col-lab-o-ra-tive deep
+ []
+
+
+Underfull \hbox (badness 3977) in paragraph at lines 229--238
+[]\OT1/cmr/m/n/10 Yee Wei Law, He-man-shu Pota, Jiong Jin, Zhi-
+ []
+
+
+Underfull \hbox (badness 4144) in paragraph at lines 229--238
+\OT1/cmr/m/n/10 hong Man, and Marimuthu Palaniswami.  Con-
+ []
+
+
+Underfull \hbox (badness 3364) in paragraph at lines 229--238
+\OT1/cmr/m/n/10 trol and com-mu-ni-ca-tion tech-niques for the smart
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 229--238
+\OT1/cmtt/m/n/10 com / science / article / pii / S147466701641743X$[][]\OT1/cmr
+/m/n/10 , [][]$\OT1/cmtt/m/n/10 doi :
+ []
+
+[3]
+Underfull \hbox (badness 1062) in paragraph at lines 252--261
+\OT1/cmtt/m/n/10 / / ieeexplore . ieee . org / document / 6637321$[][]\OT1/cmr/
+m/n/10 , [][]$\OT1/cmtt/m/n/10 doi : 10 .
+ []
+
+
+Underfull \hbox (badness 1087) in paragraph at lines 263--272
+\OT1/cmr/m/it/10 SIGSAC Sym-po-sium on In-for-ma-tion, Com-puter and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--302
+[]\OT1/cmr/m/n/10 Yee Wei Law, Tansu Alp-can, and Marimuthu
+ []
+
+
+Underfull \hbox (badness 7030) in paragraph at lines 296--302
+\OT1/cmr/m/n/10 Palaniswami.  Se-cu-rity games for volt-age con-
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 296--302
+\OT1/cmr/m/it/10 Con-fer-ence on Com-mu-ni-ca-tion, Con-trol, and Com-
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 296--302
+\OT1/cmr/m/it/10 put-ing (Aller-ton)\OT1/cmr/m/n/10 , pages 212--219, Oc-to-ber
+ 2012.
+ []
+
+
+Underfull \hbox (badness 3439) in paragraph at lines 304--316
+\OT1/cmr/m/n/10 and Subhrakanti Dey.  Se-cu-rity games and risk
+ []
+
+
+Underfull \hbox (badness 6188) in paragraph at lines 304--316
+\OT1/cmr/m/n/10 min-i-miza-tion for au-to-matic gen-er-a-tion con-trol in
+ []
+
+
+Underfull \hbox (badness 2837) in paragraph at lines 304--316
+\OT1/cmr/m/n/10 smart grid.  In Jens Grossklags and Jean Wal-
+ []
+
+
+Underfull \hbox (badness 2941) in paragraph at lines 304--316
+\OT1/cmr/m/it/10 Bu-dapest, Hun-gary, Novem-ber 5-6, 2012. Pro-ceed-
+ []
+
+
+Underfull \hbox (badness 1484) in paragraph at lines 304--316
+\OT1/cmr/m/n/10 Berlin Hei-del-berg.  URL: [][]$\OT1/cmtt/m/n/10 https : / / li
+nk . springer .
+ []
+
+
+Underfull \hbox (badness 5316) in paragraph at lines 304--316
+\OT1/cmtt/m/n/10 com / chapter / 10 . 1007 / 978-[]3-[]642-[]34266-[]0 _ 17$[][
+]\OT1/cmr/m/n/10 , [][]$\OT1/cmtt/m/n/10 doi :
+ []
+
+
+Underfull \hbox (badness 3861) in paragraph at lines 329--339
+[]\OT1/cmr/m/n/10 Zheng Gong, Svetla Nikova, and Yee Wei Law.
+ []
+
+
+Underfull \hbox (badness 4765) in paragraph at lines 329--339
+\OT1/cmr/m/it/10 cu-rity and Pri-vacy: 7th In-ter-na-tional Work-shop,
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 329--339
+\OT1/cmr/m/it/10 RFID-Sec 2011, Amherst, USA, June 26-28, 2011,
+ []
+
+
+Underfull \hbox (badness 2503) in paragraph at lines 329--339
+\OT1/cmr/m/it/10 in Com-puter Sci-ence\OT1/cmr/m/n/10 , pages 1--18. Springer B
+erlin
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 329--339
+\OT1/cmr/m/n/10 Hei-del-berg, 2012.  URL: [][]$\OT1/cmtt/m/n/10 https : / / lin
+k . springer .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--339
+\OT1/cmtt/m/n/10 com / chapter / 10 . 1007 / 978-[]3-[]642-[]25286-[]0 _ 1$[][]
+\OT1/cmr/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 3029) in paragraph at lines 341--347
+\OT1/cmr/m/n/10 Access Mech-a-nism for Mas-sive Machine-to-Machine
+ []
+
+
+Underfull \hbox (badness 1412) in paragraph at lines 349--358
+\OT1/cmr/m/it/10 20-24, 2010, Re-vised Se-lected Pa-pers\OT1/cmr/m/n/10 , vol-u
+me 6584
+ []
+
+
+Underfull \hbox (badness 1406) in paragraph at lines 349--358
+\OT1/cmr/m/n/10 of \OT1/cmr/m/it/10 Lec-ture Notes in Com-puter Sci-ence\OT1/cm
+r/m/n/10 , pages 268--
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 389--396
+\OT1/cmtt/m/n/10 / / ieeexplore . ieee . org / document / 5283384$[][]\OT1/cmr/
+m/n/10 , [][]$\OT1/cmtt/m/n/10 doi : 10 .
+ []
+
+[4]
+Underfull \hbox (badness 5359) in paragraph at lines 409--417
+[]\OT1/cmr/m/n/10 Jiong Jin, Yee Wei Law, Wei-Hua Wang, and
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 409--417
+\OT1/cmtt/m/n/10 / / ieeexplore . ieee . org / document / 4761977$[][]\OT1/cmr/
+m/n/10 , [][]$\OT1/cmtt/m/n/10 doi : 10 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--429
+[]\OT1/cmr/m/n/10 Li-Hsing Yen, Yee Wei Law, and Marimuthu
+ []
+
+
+Underfull \hbox (badness 6348) in paragraph at lines 419--429
+\OT1/cmr/m/n/10 Palaniswami.  Risk-aware bea-con schedul-ing for
+ []
+
+
+Underfull \hbox (badness 2573) in paragraph at lines 419--429
+\OT1/cmr/m/n/10 tree-based Zig-Bee/IEEE 802.15.4 wire-less net-works.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--429
+\OT1/cmr/m/n/10 In \OT1/cmr/m/it/10 Pro-ceed-ings of the 4th An-nual In-ter-na-
+tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--429
+\OT1/cmr/m/it/10 Con-fer-ence on Wire-less In-ter-net\OT1/cmr/m/n/10 , WICON '0
+8,
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 419--429
+\OT1/cmr/m/n/10 pages 79:1--79:9, Brus-sels, BEL, 2008. ICST (In-sti-
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 419--429
+\OT1/cmr/m/n/10 tute for Com-puter Sci-ences, Social-Informatics and
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 419--429
+\OT1/cmr/m/n/10 Telecom-mu-ni-ca-tions En-gi-neer-ing).  URL: [][]$\OT1/cmtt/m/
+n/10 https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--429
+\OT1/cmtt/m/n/10 / / dl . acm . org / doi / abs / 10 . 5555 / 1554126 . 1554225
+$[][]\OT1/cmr/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 1264) in paragraph at lines 431--436
+\OT1/cmr/m/it/10 MobileSummit 2008\OT1/cmr/m/n/10 . IIMC In-ter-na-tional In-fo
+r-ma-tion
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 448--455
+\OT1/cmtt/m/n/10 / / ieeexplore . ieee . org / document / 4428764$[][]\OT1/cmr/
+m/n/10 , [][]$\OT1/cmtt/m/n/10 doi : 10 .
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 457--466
+\OT1/cmtt/m/n/10 / / ieeexplore . ieee . org / document / 1595561$[][]\OT1/cmr/
+m/n/10 , [][]$\OT1/cmtt/m/n/10 doi : 10 .
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 497--504
+[]\OT1/cmr/m/n/10 Yee Wei Law, Cheun Ngen Chong, San-dro Etalle,
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 506--518
+\OT1/cmr/m/n/10 and Sung-Hyon Myaeng, ed-i-tors, \OT1/cmr/m/it/10 Dig-i-tal Li-
+braries:
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 506--518
+\OT1/cmr/m/it/10 for Global Ac-cess: 6th In-ter-na-tional Con-fer-ence on
+ []
+
+
+Underfull \hbox (badness 5316) in paragraph at lines 506--518
+\OT1/cmtt/m/n/10 com / chapter / 10 . 1007 / 978-[]3-[]540-[]24594-[]0 _ 44$[][
+]\OT1/cmr/m/n/10 , [][]$\OT1/cmtt/m/n/10 doi :
+ []
+
+[5]
+Underfull \hbox (badness 1038) in paragraph at lines 551--561
+\OT1/cmr/m/n/10 Marco Conti, Sil-via Gior-dano, En-rico Gre-gori, and
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 563--574
+[]\OT1/cmr/m/n/10 Yee Wei Law, San-dro Etalle, and Pieter H. Har-
+ []
+
+
+Underfull \hbox (badness 2020) in paragraph at lines 563--574
+\OT1/cmr/m/n/10 Vimer-cati, Pierangela Sama-rati, and Sokratis Kat-
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 563--574
+\OT1/cmr/m/it/10 Athens, Greece\OT1/cmr/m/n/10 , pages 459--463, Boston, MA, Ma
+y
+ []
+
+
+Underfull \hbox (badness 5316) in paragraph at lines 563--574
+\OT1/cmtt/m/n/10 com / chapter / 10 . 1007 / 978-[]0-[]387-[]35691-[]4 _ 46$[][
+]\OT1/cmr/m/n/10 , [][]$\OT1/cmtt/m/n/10 doi :
+ []
+
+)
+\openout3 = `btaux.aux'.
+
+\openout3 = `ywlaw4.aux'.
+
+ (ywlaw4.bbl
+Underfull \hbox (badness 7203) in paragraph at lines 15--22
+\OT1/cmr/m/n/10 Law, ed-i-tors.  \OT1/cmr/m/it/10 Pro-ceed-ings of the 2007 In-
+ter-
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 15--22
+\OT1/cmr/m/it/10 na-tional Con-fer-ence on In-tel-li-gent Sen-sors, Sen-sor
+ []
+
+
+Underfull \hbox (badness 7168) in paragraph at lines 15--22
+\OT1/cmr/m/it/10 net-works and In-for-ma-tion Pro-cess-ing\OT1/cmr/m/n/10 . IEE
+E, De-
+ []
+
+
+Underfull \hbox (badness 5741) in paragraph at lines 15--22
+\OT1/cmr/m/n/10 cem-ber 2007.  URL: [][]$\OT1/cmtt/m/n/10 https : / / ieeexplor
+e . ieee .
+ []
+
+)
+\openout3 = `btaux.aux'.
+
+\openout3 = `ywlaw5.aux'.
+
+ (ywlaw5.bbl) [6
+
+] (ywlaw.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-04-11>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `ywlaw.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 8777 strings out of 474369
+ 137431 string characters out of 5742384
+ 1964754 words of memory out of 5000000
+ 31006 multiletter control sequences out of 15000+600000
+ 559793 words of font info for 42 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,5n,79p,224b,613s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/lawyw/app/miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx
+12.pfb><C:/Users/lawyw/app/miktex/texmfs/install/fonts/type1/public/amsfonts/cm
+/cmmi10.pfb><C:/Users/lawyw/app/miktex/texmfs/install/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb><C:/Users/lawyw/app/miktex/texmfs/install/fonts/type1/public/am
+sfonts/cm/cmti10.pfb><C:/Users/lawyw/app/miktex/texmfs/install/fonts/type1/publ
+ic/amsfonts/cm/cmtt10.pfb>
+Output written on ywlaw.pdf (6 pages, 185253 bytes).
+PDF statistics:
+ 365 PDF objects out of 1000 (max. 8388607)
+ 96 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

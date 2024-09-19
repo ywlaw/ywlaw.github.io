@@ -1,0 +1,207 @@
+\begin{thebibliography}{10}
+
+\bibitem{du2024domain}
+Andrew Du, Anh-Dzung Doan, Yee~Wei Law, and Tat-Jun Chin.
+\newblock Domain adaptation for satellite-borne multispectral cloud detection.
+\newblock {\em Remote Sensing}, 18(16), 2024.
+\newblock \href {https://doi.org/10.3390/rs16183469}
+  {\path{doi:10.3390/rs16183469}}.
+
+\bibitem{tam2022capacitor}
+Wing~Shan Tam, Yee~Wei Law, and Chi~Wah Kok.
+\newblock A capacitor-free fast-response low-dropout voltage regulator.
+\newblock {\em Solid State Electronics Letters}, 4:10--14, 2022.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S2589208822000084},
+  \href {https://doi.org/10.1016/j.ssel.2022.12.001}
+  {\path{doi:10.1016/j.ssel.2022.12.001}}.
+
+\bibitem{mcguire2022optimal}
+John~L. McGuire, Yee~Wei Law, Kutluy{\i}l Do\u{g}an\c{c}ay, Sook-Ying Ho, and
+  Javaan Chahl.
+\newblock Optimal maneuvering for autonomous vehicle self-localization.
+\newblock {\em Entropy}, 24(8), 2022.
+\newblock URL: \url{https://www.mdpi.com/1099-4300/24/8/1169}, \href
+  {https://doi.org/10.3390/e24081169} {\path{doi:10.3390/e24081169}}.
+
+\bibitem{mcguire2021optimal}
+John McGuire, Yee~Wei Law, Javaan Chahl, and Kutluy{\i}l Do\u{g}an\c{c}ay.
+\newblock Optimal beacon placement for self-localization using three beacon
+  bearings.
+\newblock {\em Symmetry}, 13(1), 2021.
+\newblock URL: \url{https://www.mdpi.com/2073-8994/13/1/56}, \href
+  {https://doi.org/10.3390/sym13010056} {\path{doi:10.3390/sym13010056}}.
+
+\bibitem{nasimi2020exploiting}
+Fahimeh Nasimi, Mohammad~Reza Khayyambashi, Naser Movahhedinia, and Yee~Wei
+  Law.
+\newblock Exploiting similar prior knowledge for compressing {ECG} signals.
+\newblock {\em Biomedical Signal Processing and Control}, 60:101960, 2020.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S1746809420301166},
+  \href {https://doi.org/10.1016/j.bspc.2020.101960}
+  {\path{doi:10.1016/j.bspc.2020.101960}}.
+
+\bibitem{perera2020multi}
+Asanka~G. Perera, Yee~Wei Law, Titilayo~T. Ogunwa, and Javaan Chahl.
+\newblock A multiviewpoint outdoor dataset for human action recognition.
+\newblock {\em IEEE Transactions on Human-Machine Systems}, 50(5):405--413,
+  2020.
+\newblock URL: \url{https://ieeexplore.ieee.org/document/9005197}, \href
+  {https://doi.org/10.1109/THMS.2020.2971958}
+  {\path{doi:10.1109/THMS.2020.2971958}}.
+
+\bibitem{perera2019droneaction}
+Asanka~G. Perera, Yee~Wei Law, and Javaan Chahl.
+\newblock {Drone-Action}: An outdoor recorded drone video dataset for action
+  recognition.
+\newblock {\em Drones}, 3(4):82, 2019.
+\newblock URL: \url{https://www.mdpi.com/2504-446X/3/4/82}, \href
+  {https://doi.org/10.3390/drones3040082} {\path{doi:10.3390/drones3040082}}.
+
+\bibitem{perera2018human-cc}
+Asanka~G. Perera, Yee~Wei Law, and Javaan Chahl.
+\newblock Human pose and path estimation from aerial video using dynamic
+  classifier selection.
+\newblock {\em Cognitive Computation}, 10(6):1019--1041, 2018.
+\newblock URL: \url{https://rdcu.be/20UE}, \href
+  {https://doi.org/0.1007/s12559-018-9577-6}
+  {\path{doi:0.1007/s12559-018-9577-6}}.
+
+\bibitem{lyu2018privacy}
+Lingjuan Lyu, James~C. Bezdek, Yee~Wei Law, Xuanli He, and Marimuthu
+  Palaniswami.
+\newblock Privacy-preserving collaborative fuzzy clustering.
+\newblock {\em Data \& Knowledge Engineering}, 116:21--41, 2018.
+\newblock \href {https://doi.org/10.1016/j.datak.2018.05.002}
+  {\path{doi:10.1016/j.datak.2018.05.002}}.
+
+\bibitem{perera2018human}
+Asanka~G. Perera, Yee~Wei Law, Ali Al-Naji, and Javaan Chahl.
+\newblock Human motion analysis from {UAV} video.
+\newblock {\em International Journal of Intelligent Unmanned Systems},
+  6(2):69--92, 2018.
+\newblock \href {https://doi.org/10.1108/IJIUS-10-2017-0012}
+  {\path{doi:10.1108/IJIUS-10-2017-0012}}.
+
+\bibitem{li2017analytical}
+Jun-Wei Li, Shi-Ning Li, Yu~Zhang, Tao Gu, Yee~Wei Law, Zhe Yang, Xingshe Zhou,
+  and Marimuthu Palaniswami.
+\newblock An analytical model for coding-based reprogramming protocols in lossy
+  wireless sensor networks.
+\newblock {\em IEEE Transactions on Computers}, 66(1):24--37, 2017.
+\newblock URL: \url{https://ieeexplore.ieee.org/document/7463080}, \href
+  {https://doi.org/10.1109/TC.2016.2560805}
+  {\path{doi:10.1109/TC.2016.2560805}}.
+
+\bibitem{law2015security}
+Yee~Wei Law, Tansu Alpcan, and Marimuthu Palaniswami.
+\newblock Security games for risk minimization in automatic generation control.
+\newblock {\em IEEE Transactions on Power Systems}, 30(1):223--232, January
+  2015.
+\newblock \href {https://doi.org/10.1109/TPWRS.2014.2326403}
+  {\path{doi:10.1109/TPWRS.2014.2326403}}.
+
+\bibitem{marusic2014security}
+Slaven Marusic, Jayavardhana Gubbi, Helen Sullivan, Yee~Wei Law, and Marimuthu
+  Palaniswami.
+\newblock Participatory sensing, privacy and trust management for interactive
+  local governance.
+\newblock {\em IEEE Technology and Society Magazine}, 33(3), 2014.
+\newblock \href {https://doi.org/10.1109/MTS.2014.2345203}
+  {\path{doi:10.1109/MTS.2014.2345203}}.
+
+\bibitem{lo2013cellular}
+Anthony Lo, Yee~Wei Law, and Martin Jacobsson.
+\newblock A cellular-centric service architecture for machine-to-machine
+  {(M2M)} communications.
+\newblock {\em IEEE Wireless Communications}, 20(5):143--151, 2013.
+\newblock \href {https://doi.org/10.1109/MWC.2013.6664485}
+  {\path{doi:10.1109/MWC.2013.6664485}}.
+
+\bibitem{law2013wake}
+Yee~Wei Law, Marimuthu Palaniswami, Gina Kounga, and Anthony Lo.
+\newblock {WAKE}: Key management scheme for wide-area measurement systems in
+  smart grid.
+\newblock {\em IEEE Communications Magazine}, 51(1):34--41, January 2013.
+\newblock \href {https://doi.org/10.1109/MCOM.2013.6400436}
+  {\path{doi:10.1109/MCOM.2013.6400436}}.
+
+\bibitem{yen2012riskaware}
+Li-Hsing Yen, Yee~Wei Law, and Marimuthu Palaniswami.
+\newblock Risk-aware distributed beacon scheduling for tree-based {ZigBee}
+  wireless networks.
+\newblock {\em IEEE Transactions on Mobile Computing}, 11(4):692--703, April
+  2012.
+\newblock \href {https://doi.org/10.1109/TMC.2011.88}
+  {\path{doi:10.1109/TMC.2011.88}}.
+
+\bibitem{zhang2011secure}
+Yu~Zhang, Xing~She Zhou, Yee~Wei Law, and Marimuthu Palaniswami.
+\newblock A secure method for network coding-based reprogramming protocols in
+  wireless sensor networks.
+\newblock {\em International Journal of Computer Network and Information
+  Security}, 3(2):34--40, March 2011.
+\newblock \href {https://doi.org/10.5815/ijcnis.2011.02.05}
+  {\path{doi:10.5815/ijcnis.2011.02.05}}.
+
+\bibitem{law2011kalwen}
+Yee~Wei Law, Giorgi Moniava, Zheng Gong, Pieter Hartel, and Marimuthu
+  Palaniswami.
+\newblock {KALwEN}: A new practical and interoperable key management scheme for
+  body sensor networks.
+\newblock {\em Security and Communication Networks}, 4:1309--1329, 2011.
+\newblock \href {https://doi.org/10.1002/sec.256} {\path{doi:10.1002/sec.256}}.
+
+\bibitem{law2011secure}
+Yee~Wei Law, Yu~Zhang, Jiong Jin, Marimuthu Palaniswami, and Paul Havinga.
+\newblock {Secure Rateless Deluge: Pollution-Resistant Reprogramming and Data
+  Dissemination for Wireless Sensor Networks}.
+\newblock {\em EURASIP Journal on Wireless Communications and Networking:
+  Special Issue on Security and Resilience for Smart Devices and Applications},
+  2011, 2011.
+\newblock Article ID 685219, 22 pages.
+\newblock URL: \url{https://link.springer.com/article/10.1155/2011/685219},
+  \href {https://doi.org/10.1155/2011/685219} {\path{doi:10.1155/2011/685219}}.
+
+\bibitem{zhang2009five}
+Yu~Zhang, Xing~She Zhou, Yi~Ming Ji, Yee~Wei Law, and Marimuthu Palaniswami.
+\newblock {Five basic types of insider DoS attacks of code dissemination in
+  Wireless Sensor Networks}.
+\newblock {\em International Journal of Communications, Network and System
+  Sciences}, 2(1), 2009.
+\newblock Article ID 184.
+\newblock URL: \url{https://www.scirp.org/html/8_970040_184.htm}, \href
+  {https://doi.org/10.4236/ijcns.2009.21008}
+  {\path{doi:10.4236/ijcns.2009.21008}}.
+
+\bibitem{law2009energyefficient}
+Yee~Wei Law, Marimuthu Palaniswami, Lodewijk van Hoesel, Jeroen Doumen, Pieter
+  Hartel, and Paul Havinga.
+\newblock Energy-efficient link-layer jamming attacks against wireless sensor
+  network {MAC} protocols.
+\newblock {\em ACM Transactions on Sensor Networks}, 5(1), February 2009.
+\newblock Article No. 6.
+\newblock URL: \url{https://dl.acm.org/doi/10.1145/1464420.1464426}, \href
+  {https://doi.org/10.1145/1464420.1464426}
+  {\path{doi:10.1145/1464420.1464426}}.
+
+\bibitem{chong2006licensescript}
+Cheun~Ngen Chong, Ricardo Corin, Jeroen Doumen, Sandro Etalle, Pieter Hartel,
+  Yee~Wei Law, and Andrew Tokmakoff.
+\newblock {LicenseScript}: A logical language for digital rights management.
+\newblock {\em Annals of Telecommunications, Special Issue on Information
+  Systems Security}, 61:284--331, April 2006.
+\newblock URL: \url{https://rdcu.be/cAPKh}, \href
+  {https://doi.org/10.1007/BF03219910} {\path{doi:10.1007/BF03219910}}.
+
+\bibitem{law2006survey}
+Yee~Wei Law, Jeroen Doumen, and Pieter Hartel.
+\newblock Survey and benchmark of block ciphers for wireless sensor networks.
+\newblock {\em ACM Transactions on Sensor Networks}, 2(1):65--93, February
+  2006.
+\newblock URL: \url{https://dl.acm.org/doi/10.1145/1138127.1138130}, \href
+  {https://doi.org/10.1145/1138127.1138130}
+  {\path{doi:10.1145/1138127.1138130}}.
+
+\end{thebibliography}

@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: ywlaw2.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: unsrturl.bst
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: ywlaw-jo.bib
+You've used 23 entries,
+            2616 wiz_defined-function locations,
+            759 strings with 10594 characters,
+and the built_in function-call counts, 9626 in all, are:
+= -- 1021
+> -- 392
+< -- 0
++ -- 123
+- -- 100
+* -- 690
+:= -- 1312
+add.period$ -- 95
+call.type$ -- 23
+change.case$ -- 23
+chr.to.int$ -- 0
+cite$ -- 23
+duplicate$ -- 226
+empty$ -- 950
+format.name$ -- 100
+if$ -- 2606
+int.to.chr$ -- 0
+int.to.str$ -- 23
+missing$ -- 23
+newline$ -- 144
+num.names$ -- 23
+pop$ -- 148
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 682
+stack$ -- 0
+substring$ -- 386
+swap$ -- 69
+text.length$ -- 46
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 52
+width$ -- 25
+write$ -- 320
