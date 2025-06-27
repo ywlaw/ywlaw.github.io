@@ -14,45 +14,45 @@ Warning--can't use both volume and number fields in uhongora2023deep
 Warning--can't use both volume and number fields in edwards2023evaluation
 Warning--can't use both volume and number fields in law2023detecting
 Warning--can't use both volume and number fields in law2022siem4gs
-You've used 54 entries,
+You've used 55 entries,
             2616 wiz_defined-function locations,
-            984 strings with 25676 characters,
-and the built_in function-call counts, 31349 in all, are:
-= -- 3188
-> -- 1431
+            989 strings with 25896 characters,
+and the built_in function-call counts, 31641 in all, are:
+= -- 3211
+> -- 1443
 < -- 54
-+ -- 472
-- -- 416
-* -- 2040
-:= -- 4059
-add.period$ -- 257
-call.type$ -- 54
-change.case$ -- 54
++ -- 476
+- -- 419
+* -- 2049
+:= -- 4096
+add.period$ -- 260
+call.type$ -- 55
+change.case$ -- 55
 chr.to.int$ -- 0
-cite$ -- 58
-duplicate$ -- 1080
-empty$ -- 3027
-format.name$ -- 416
-if$ -- 8476
+cite$ -- 59
+duplicate$ -- 1092
+empty$ -- 3067
+format.name$ -- 419
+if$ -- 8563
 int.to.chr$ -- 0
-int.to.str$ -- 54
-missing$ -- 54
-newline$ -- 333
-num.names$ -- 74
-pop$ -- 555
+int.to.str$ -- 55
+missing$ -- 55
+newline$ -- 338
+num.names$ -- 75
+pop$ -- 567
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 2070
+skip$ -- 2092
 stack$ -- 0
 substring$ -- 1371
-swap$ -- 581
+swap$ -- 583
 text.length$ -- 146
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 4
-while$ -- 183
-width$ -- 56
-write$ -- 785
+while$ -- 184
+width$ -- 57
+write$ -- 795
 (There were 4 warnings)
