@@ -10,44 +10,44 @@ Reallocating 'global_strs' (item size: 1) to 4000000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: ywlaw-jo.bib
-You've used 24 entries,
+You've used 25 entries,
             2616 wiz_defined-function locations,
-            766 strings with 10880 characters,
-and the built_in function-call counts, 10115 in all, are:
-= -- 1073
-> -- 411
+            773 strings with 11151 characters,
+and the built_in function-call counts, 10468 in all, are:
+= -- 1107
+> -- 430
 < -- 1
-+ -- 129
-- -- 105
-* -- 712
-:= -- 1370
-add.period$ -- 99
-call.type$ -- 24
-change.case$ -- 24
++ -- 135
+- -- 110
+* -- 735
+:= -- 1420
+add.period$ -- 103
+call.type$ -- 25
+change.case$ -- 25
 chr.to.int$ -- 0
-cite$ -- 24
-duplicate$ -- 248
-empty$ -- 991
-format.name$ -- 105
-if$ -- 2745
+cite$ -- 25
+duplicate$ -- 256
+empty$ -- 1024
+format.name$ -- 110
+if$ -- 2842
 int.to.chr$ -- 0
-int.to.str$ -- 24
-missing$ -- 24
-newline$ -- 150
-num.names$ -- 24
-pop$ -- 157
+int.to.str$ -- 25
+missing$ -- 25
+newline$ -- 156
+num.names$ -- 25
+pop$ -- 163
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 727
+skip$ -- 756
 stack$ -- 0
-substring$ -- 400
-swap$ -- 85
-text.length$ -- 49
+substring$ -- 402
+swap$ -- 88
+text.length$ -- 51
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 54
-width$ -- 26
-write$ -- 333
+while$ -- 55
+width$ -- 27
+write$ -- 346

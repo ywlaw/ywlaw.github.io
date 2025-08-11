@@ -1,5 +1,14 @@
 \begin{thebibliography}{10}
 
+\bibitem{xu2025remaining-sensors}
+Zhiqing Xu, Christopher W.~K. Chow, Md.~Mizanur Rahman, Raufdeen Rameezdeen,
+  and Yee~Wei Law.
+\newblock Remaining useful life prediction across conditions based on a health
+  indicator-weighted subdomain alignment network.
+\newblock {\em Sensors}, 25(15), 2025.
+\newblock \href {https://doi.org/10.3390/s25154536}
+  {\path{doi:10.3390/s25154536}}.
+
 \bibitem{xu2025remaining}
 Zhiqing Xu, Yee~Wei Law, Md~Mizanur Rahman, Raufdeen Rameezdeen, and
   Christopher~W.K. Chow.
