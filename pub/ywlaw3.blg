@@ -16,43 +16,43 @@ Warning--can't use both volume and number fields in law2023detecting
 Warning--can't use both volume and number fields in law2022siem4gs
 You've used 55 entries,
             2616 wiz_defined-function locations,
-            989 strings with 25896 characters,
-and the built_in function-call counts, 31641 in all, are:
-= -- 3211
+            991 strings with 25954 characters,
+and the built_in function-call counts, 31863 in all, are:
+= -- 3242
 > -- 1443
-< -- 54
+< -- 55
 + -- 476
 - -- 419
-* -- 2049
-:= -- 4096
-add.period$ -- 260
+* -- 2066
+:= -- 4117
+add.period$ -- 261
 call.type$ -- 55
 change.case$ -- 55
 chr.to.int$ -- 0
 cite$ -- 59
-duplicate$ -- 1092
-empty$ -- 3067
+duplicate$ -- 1101
+empty$ -- 3083
 format.name$ -- 419
-if$ -- 8563
+if$ -- 8623
 int.to.chr$ -- 0
 int.to.str$ -- 55
 missing$ -- 55
-newline$ -- 338
+newline$ -- 339
 num.names$ -- 75
-pop$ -- 567
+pop$ -- 566
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 2092
+skip$ -- 2109
 stack$ -- 0
-substring$ -- 1371
-swap$ -- 583
-text.length$ -- 146
+substring$ -- 1401
+swap$ -- 594
+text.length$ -- 149
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 4
-while$ -- 184
+while$ -- 186
 width$ -- 57
-write$ -- 795
+write$ -- 798
 (There were 4 warnings)

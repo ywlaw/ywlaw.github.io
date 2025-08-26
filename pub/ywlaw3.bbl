@@ -2,9 +2,12 @@
 
 \bibitem{uhongora2025development}
 Uakomba Uhongora, Mamello Thinyane, and Yee~Wei Law.
-\newblock Development of an {SDN}-based space system simulation framework for
+\newblock Development of an sdn-based space system simulation framework for
   intrusion detection.
-\newblock In {\em 2025 IEEE Conference on Cyber Security and Resilience}, 2025.
+\newblock In {\em 2025 IEEE International Conference on Cyber Security and
+  Resilience (CSR)}, pages 524--529, 2025.
+\newblock \href {https://doi.org/10.1109/CSR64739.2025.11130072}
+  {\path{doi:10.1109/CSR64739.2025.11130072}}.
 
 \bibitem{law2023diagnosing}
 Yee~Wei Law, Yu~Qiao, Chris Chow, Romeo Marian, Neda~Gorjian Jolfaei, Nima
