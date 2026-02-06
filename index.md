@@ -20,8 +20,9 @@ See my up-to-date [list of publications](https://ywlaw.github.io/pub/ywlaw.pdf).
 As of 2026, I am coordinating and teaching [COMP 1006 Engineering Programming](https://adelaideuni.edu.au/study/courses/comp-1006/) and [ENGE X421 Telecommunication System Security](https://adelaideuni.edu.au/study/courses/engex-421/). I developed [ENGE X411 Telecommunication Device and Network Security](https://adelaideuni.edu.au/study/courses/engex-411/), but I am not teaching the course.
 
 I developed and taught the following courses at UniSA:
+
 | Course | Year range |
-|--------|------------|
+| ------ | ---------- |
 | [COMP 5074 Cryptography and Data Protection](https://study.unisa.edu.au/courses/172215) | 2022-2024 |
 | [COMP 5075 Telecommunications and Device Security](https://study.unisa.edu.au/courses/172216) | 2023-2025 |
 | EEET 2044 Electromechanics | 2020-2021 |
