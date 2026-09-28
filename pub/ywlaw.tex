@@ -1,9 +1,11 @@
 \documentclass[10pt,a4paper,twocolumn,twoside]{article}
 % \usepackage{natbib}
-\usepackage{bibtopic}
-\usepackage{bbding}
+\usepackage{bibtopic, bbding, revnum}
 \usepackage{ifthen}
-\usepackage{revnum}
+\usepackage{fontspec}
+\usepackage{xeCJK}
+\setCJKmainfont[BoldFont=UnBatangBold.ttf]{UnBatang.ttf}
+\xeCJKsetup{CJKspace=true}
 \usepackage[hyperindex=true,colorlinks=true,pdfstartview=FitH]{hyperref}
 
 \newboolean{CHINESE}\setboolean{CHINESE}{false}
